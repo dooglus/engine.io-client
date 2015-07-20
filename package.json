@@ -27,6 +27,7 @@
     "ws": "0.7.2",
     "xmlhttprequest-ssl": "1.5.1",
     "component-emitter": "1.1.2",
+    "component-inherit": "0.0.3",
     "indexof": "0.0.1",
     "engine.io-parser": "1.2.1",
     "debug": "2.1.3",
